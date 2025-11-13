@@ -20,6 +20,13 @@ Its purpose is to scan one or multiple URLs and extract:
 - BeautifulSoup4
 
 ---
+## 🧩 Usage
+
+```
+python .\crawler.py
+```
+
+---
 
 ## 🚀 Features
 
