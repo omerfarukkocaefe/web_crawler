@@ -20,6 +20,14 @@ Amaç, bir veya birden fazla URL üzerinden:
 
 ---
 
+## 🧩 Kullanım
+
+```
+python .\crawler.py
+```
+
+---
+
 ## 🚀 Özellikler
 
 - **JavaScript destekli tarama**  
